@@ -5,3 +5,6 @@
 local.properties
 *.iml
 google-services.json
+*.apk 
+*.apk 
+app/release/ 
