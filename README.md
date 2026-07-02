@@ -96,6 +96,6 @@ Alumnunite/
 
 ---
 
-## 📄 Author
+##  Author
 
 **Mayank Bambal** — [GitHub](https://github.com/mayankbambal2005) · [LinkedIn](https://linkedin.com/in/mayank-bambal-725835410)
