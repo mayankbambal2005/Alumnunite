@@ -8,3 +8,4 @@ google-services.json
 *.apk 
 *.apk 
 app/release/ 
+*.apk 
